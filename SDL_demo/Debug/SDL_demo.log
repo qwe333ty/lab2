@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  SDL_demo.cpp
+g:\аокг\лабораторная работа №1\sdf\lab2\sdl_demo\sdl_demo.cpp(25): warning C4305: инициализация: усечение из "double" к "float"
+g:\аокг\лабораторная работа №1\sdf\lab2\sdl_demo\sdl_demo.cpp(100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  draw.cpp
+  Создание кода...
+  SDL_demo.vcxproj -> G:\АОКГ\Лабораторная работа №1\sdf\lab2\Debug\labexample.exe
+  SDL_demo.vcxproj -> G:\АОКГ\Лабораторная работа №1\sdf\lab2\Debug\labexample.pdb (Full PDB)
